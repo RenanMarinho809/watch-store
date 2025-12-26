@@ -1,4 +1,4 @@
-## 🛒 E-commerce App Moderno  
+## 🛒 E-commerce de Relogio 
 
 ✨ Uma aplicação de e-commerce **limpa** e **totalmente funcional**, construída com:  
 - ⚛️ **Next.js 15**  
